@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning NextJs
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 Trying to improve UI/UX design skills
-- 📫 How to reach me: martin.pelcat.pro@gmail.com
+- 📫 How to reach me: martin.pelcat@hotmail.com
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Love cycling 🚲
