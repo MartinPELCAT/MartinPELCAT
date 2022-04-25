@@ -9,4 +9,4 @@
 - 🤔 Trying to improve UI/UX design skills
 - 📫 How to reach me: martin.pelcat@hotmail.com
 - 😄 Pronouns: Him
-- ⚡ Fun fact: Love cycling 🚲
+- ⚡ Fun fact: Love cycling 🚲 **https://www.strava.com/athletes/44058631**
