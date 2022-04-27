@@ -7,6 +7,6 @@
 - 🌱 I’m currently learning Go (lang) and React Native
 - 👯 I’m looking to collaborate on any interesting project
 - 🤔 Trying to improve UI/UX design skills
-- 📫 How to reach me: martin.pelcat@hotmail.com
+- 📫 How to reach me: martin.pelcat@hotmail.com / https://www.linkedin.com/in/martinpelcat/
 - 😄 Pronouns: Him
 - ⚡ Fun fact: Love cycling 🚲 **https://www.strava.com/athletes/44058631**
