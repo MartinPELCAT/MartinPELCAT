@@ -1,6 +1,5 @@
 ### Hi there 👋
 
-- 👨‍💻 I'm working for CD74 until september 2022
 - 🎂 24 yo (1997)
 - 🔭 I’m currently working on a small projects to learn multiple techs
 - 😍 Loving ReactJS, NextJs, NodeJS, GraphQL, Typescript and JAVA
