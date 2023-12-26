@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-- 🎂 25 yo (1997)
+- 🎂 26 yo (1997)
 - 😍 Loving ReactJS, NextJs, NodeJS, GraphQL, Typescript and JAVA
 - 🌱 I’m currently learning Go (lang), Rust and React Native
 - 👯 I’m looking to collaborate on any interesting project
