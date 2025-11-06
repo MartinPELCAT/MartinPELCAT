@@ -1,3 +1,4 @@
+<pre>
 ttftfffttttttttttfffffffttftt1ttttttt111tttt1111111tttt1tt111tttt111111tttt1ttttttttttttttt111111111
 ttfttttttttttttttttfLLLftfffffffffftttt111tt11111ttffffftttt1111111111111111ttttttfttttttttt111111t1
 ttttttttttttttttffffLfftffffffffLLffttttttftt111ttfffffftttttttt111111ttttttffffttfffttttttt111111tt
@@ -40,3 +41,5 @@ ttttt1tttttttt11tftttttftttttttttt1;,:;:.......,:,,,....................,,1111t1
 11111111111111111111111111111111111iiiiii. ... .::::::,..................,11t1ttt111t11111tttttt1111
 1111111111111111111111111111111111111111:.,.....::::::,..................:111tttttt1tttt11tttttt1111
 1111111111111111111111111111111111111111:::,...,::::;::,..,,.............:11tt1ttttttttttttttttt1111
+
+</pre>
